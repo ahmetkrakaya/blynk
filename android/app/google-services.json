@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "778746834871",
+    "project_id": "blynk-80b4a",
+    "storage_bucket": "blynk-80b4a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778746834871:android:ae67e6699a8cf134994232",
+        "android_client_info": {
+          "package_name": "com.vooed.blynk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYPFIakQKlljeuBDTfuCT1a5UseyvURNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
